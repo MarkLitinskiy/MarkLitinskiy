@@ -52,7 +52,7 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-<br> C/C++ </br>
+### *C/C++*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
 | [3dViewer v2.0]() | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
@@ -67,13 +67,13 @@
 | [Game of Life](https://github.com/MarkLitinskiy/c-game-of-life) | 08.2022 | Console visualization of "The Game of Life" | C, Makefile, Check.h |
 | [Pong Game](https://github.com/MarkLitinskiy/c-pong-game) | 08.2022 | Console turn-based Ping Pong game | C, Makefile, Check.h |
 
-<br> SQL </br>
+### *SQL*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
 | [SQL-bootcamp]() | 06.2023 |  14-days bootcamp on Postgresql |  Postgresql |
 | [Info_21]() | 07.2023 |  Data analysis and statistics for School 21. | Postgresql |
 
-<br> DevOps </br>
+### *DevOps*  
 | Project name                                          | Project date | Description                            | Stack                                  |
 |-------------------------------------------------------|--------------|----------------------------------------|----------------------------------------|
 | [Linux](https://github.com/MarkLitinskiy/devops-projects/tree/develop/D01_Linux-0)                 | 02.2023 | Linux system installation and updates. Administration basics. | Ubuntu 20.04, bash |
