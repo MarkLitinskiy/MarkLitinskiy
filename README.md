@@ -70,8 +70,8 @@
 ### *SQL*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
-| [SQL-bootcamp]() | 06.2023 |  14-days bootcamp on Postgresql |  Postgresql |
-| [Info_21]() | 07.2023 |  Data analysis and statistics for School 21. | Postgresql |
+| [SQL-bootcamp](https://github.com/MarkLitinskiy/sql-bootcamp) | 06.2023 |  14-days bootcamp on Postgresql |  Postgresql |
+| [Info_21](https://github.com/MarkLitinskiy/sql-info21) | 07.2023 |  Data analysis and statistics for School 21. | Postgresql |
 
 ### *DevOps*  
 | Project name                                          | Project date | Description                            | Stack                                  |
