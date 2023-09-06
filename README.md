@@ -55,7 +55,7 @@
 ### *C/C++*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
-| [3dViewer v2.0]() | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
+| [3dViewer v2.0](https://github.com/MarkLitinskiy/cpp-3dViewer) | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
 | [SmartCalc v2.0](https://github.com/MarkLitinskiy/cpp-smartCalc) | 08.2023 | Realization of calculator in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
 | [Containers](https://github.com/MarkLitinskiy/cpp-containers) | 08.2023 | Realization of own library of C++ STL containers |  C++, OOP, Makefile, GTest |
 | [Matrix library v2.0](https://github.com/MarkLitinskiy/cpp-matrix) | 07.2023 | Realization of own version of library for working with matrixes s21_matrix.a in c++ language |  C++, OOP, Makefile, GTest |
