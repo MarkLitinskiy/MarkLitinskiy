@@ -14,6 +14,7 @@
 
 ### 🚀 Languages:
 
+![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -57,7 +58,7 @@
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
 | [Telegram bot](https://github.com/MarkLitinskiy/java-telegram-bot) | 02.2024 | Telegram bot for image processing | Java, Maven, Java Collections API, Spring Framework, JPA |
-| [Spring Framework](https://github.com/MarkLitinskiy/java-reflection) | 01.2024 | Exercises for learning Spring Framework | Java, Maven, Java Collections API, Spring Framework |
+| [Spring Framework](https://github.com/MarkLitinskiy/java-spring) | 01.2024 | Exercises for learning Spring Framework | Java, Maven, Java Collections API, Spring Framework |
 | [Reflection](https://github.com/MarkLitinskiy/java-reflection) | 01.2024 | Exercises for learning Reflection technology | Java, Maven, Java Collections API, Reflection |
 | [JUnit/Mockito](https://github.com/MarkLitinskiy/java-JUnit) | 01.2024 | Exercises for learning testing technology with JUnit | Java, Maven, JUnit, Mockito |
 | [JDBC](https://github.com/MarkLitinskiy/java-jdbc) | 12.2023 | Exercises for learning JDBC technology |  Java, Maven, JDBC |
