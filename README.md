@@ -53,6 +53,17 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+### *Java*  
+| Project name      | Project date     | Description | Stack |
+| ------------- | ------------------------ | ------------------------ | ------------------------ |
+| [Telegram bot](https://github.com/MarkLitinskiy/java-telegram-bot) | 02.2024 | Telegram bot for image processing | Java, Maven, Java Collections API, Spring Framework, JPA |
+| [Spring Framework](https://github.com/MarkLitinskiy/java-reflection) | 01.2024 | Exercises for learning Spring Framework | Java, Maven, Java Collections API, Spring Framework |
+| [Reflection](https://github.com/MarkLitinskiy/java-reflection) | 01.2024 | Exercises for learning Reflection technology | Java, Maven, Java Collections API, Reflection |
+| [JUnit/Mockito](https://github.com/MarkLitinskiy/java-JUnit) | 01.2024 | Exercises for learning testing technology with JUnit | Java, Maven, JUnit, Mockito |
+| [JDBC](https://github.com/MarkLitinskiy/java-jdbc) | 12.2023 | Exercises for learning JDBC technology |  Java, Maven, JDBC |
+| [Console Game](https://github.com/MarkLitinskiy/java-console-game) | 12.2023 | Simple console game |  Java, Maven, Java Collections API |
+| [Java Bootcamp](https://github.com/MarkLitinskiy/java-bootcamp) | 11.2023 | Java Core | Maven, IO, Files, Threads, JAR |
+
 
 ### *C/C++*  
 | Project name      | Project date     | Description | Stack |
