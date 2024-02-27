@@ -14,18 +14,19 @@
 
 ### 🚀 Languages:
 
-![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-D14836.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🗄️ Databases:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌟 Frameworks:
 
+![Spring Framework](https://img.shields.io/badge/Spring-%23217346.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### 💻 IDEs/Editors:
@@ -47,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%23D42029.svg?color=blue&style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+![Maven](https://img.shields.io/badge/Maven-%5E90FFFF.svg?style=for-the-badge&logo=maven&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
 
